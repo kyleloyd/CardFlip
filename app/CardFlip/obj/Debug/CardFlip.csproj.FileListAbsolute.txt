@@ -1,0 +1,9 @@
+C:\Users\Kyle\Documents\GitHub\CardFlip\app\CardFlip\bin\Debug\CardFlip.exe.config
+C:\Users\Kyle\Documents\GitHub\CardFlip\app\CardFlip\bin\Debug\CardFlip.exe
+C:\Users\Kyle\Documents\GitHub\CardFlip\app\CardFlip\bin\Debug\CardFlip.pdb
+C:\Users\Kyle\Documents\GitHub\CardFlip\app\CardFlip\obj\Debug\CardFlip.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\GitHub\CardFlip\app\CardFlip\obj\Debug\CardFlip.Form1.resources
+C:\Users\Kyle\Documents\GitHub\CardFlip\app\CardFlip\obj\Debug\CardFlip.Properties.Resources.resources
+C:\Users\Kyle\Documents\GitHub\CardFlip\app\CardFlip\obj\Debug\CardFlip.csproj.GenerateResource.Cache
+C:\Users\Kyle\Documents\GitHub\CardFlip\app\CardFlip\obj\Debug\CardFlip.exe
+C:\Users\Kyle\Documents\GitHub\CardFlip\app\CardFlip\obj\Debug\CardFlip.pdb
